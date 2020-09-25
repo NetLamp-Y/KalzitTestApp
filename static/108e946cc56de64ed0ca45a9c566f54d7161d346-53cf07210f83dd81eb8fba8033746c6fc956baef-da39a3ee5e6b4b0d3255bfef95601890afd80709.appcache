@@ -1,0 +1,12 @@
+CACHE MANIFEST
+/apps/home/config/standardApps.json
+/apps/home/config/developerApps.json
+../static/bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f.json
+/assets/images/static/2020.06.05-apps-light.svg
+/assets/images/static/2020.06.05-cross-light.png
+/assets/images/static/2020.06.05-menu-light.svg
+/assets/images/static/2020.06.05-user-light.svg
+/assets/images/static/2020.06.05-user-outline-light.svg
+/assets/strings/default.json
+NETWORK:
+*
