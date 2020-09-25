@@ -1,0 +1,1 @@
+print: @centerText uiText: "Hey, this seems to work!".
